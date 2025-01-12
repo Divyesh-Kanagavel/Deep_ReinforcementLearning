@@ -1,1 +1,1 @@
-# Deep_ReinforcementLearning
+# The repo contains python notebooks containing Deep reinforcement learning code examples, a bit of theory and some applications of Reinforcement learning hugely derived from the Deep Reinforcement Learning course from Hugging face.
